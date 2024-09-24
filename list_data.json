@@ -1,22 +1,25 @@
 {
-	"movies": [
+	"FootballTeams": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Liverpool",
+			"League": "English Premier League",
+			"Manager": "Arne Slot"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Barcelona",
+			"League": "laliga",
+			"Manager": "Hansi Flick"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Chelsea",
+			"League": "English Premier League",
+			"Manager": "Enzo Maresca"
+		},
+		{
+			"Name": "Bayer Leverkusen",
+			"League": "Bundisliga",
+			"Manager": "Xabi Alonso"
 		}
+
 	]
 }
